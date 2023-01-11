@@ -10,4 +10,7 @@ spring:
       enabled: true
    
   application:
-    name: Config-Server-Test
+    Name: Config-Server-Test
+    City: Dar es salaam
+    Country: Tanzania
+    Code: 255
